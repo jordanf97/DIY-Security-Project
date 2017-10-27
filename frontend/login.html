@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Homepage</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="resource/css/uikit.min" />
+		<script src="resource/js/login"></script>
+	</head>
+	<body>
+		<div class="uk-container">
+		<div class="uk-card uk-card-default uk-card-body uk-width-1-2@m uk-align-center">
+			<h3 class="uk-card-title">Permission Denied</h3>
+			<p>You must be authenticated to use this system!</p>
+			<form method="POST" onsubmit="return login();">
+				<div id="hook"></div>
+				<input id="username" placeholder="Username" type="text" class="uk-input" />
+				
+				<input id="password" placeholder="Password" type="password" class="uk-input uk-margin" />
+				<input type="submit" class="uk-input uk-primary" onclick="login()" />
+			</form>
+		</div>
+	</div>
+	</body>
+</html>
