@@ -4,7 +4,7 @@ DIY Home security system built with a Raspberry Pi, Raspberry Pi Camera module a
 
 This project has been completed as a university mini project.
 
-##Video
+## Video
 
 Click the below link for a video walk through
 
