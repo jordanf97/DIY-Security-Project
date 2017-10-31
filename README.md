@@ -1,3 +1,11 @@
 # DIY-Security-Project
 
-A project for a university assignment using a raspberry pi and a camera & motion sensor module to record video
+DIY Home security system built with a Raspberry Pi, Raspberry Pi Camera module and a PIR motion sensor.
+
+This project has been completed as a university mini project.
+
+##Video
+
+Click the below link for a video walk through
+
+[![IFB102 Project](https://img.youtube.com/vi/hwyem9Tm_f4/0.jpg)](https://www.youtube.com/watch?v=hwyem9Tm_f4 "IFB102 Project")
